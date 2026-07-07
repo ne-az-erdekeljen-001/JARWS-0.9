@@ -1,7 +1,7 @@
 # JARWS-0.9
 
 JARWS/
-/README.md
+README.md
 
 LICENSE
 
